@@ -1,0 +1,185 @@
+* {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  font-family: "Open Sans", sans-serif;
+}
+
+/* header section */
+
+header {
+  background-image: url("images/donation6.jpg");
+  width: 100%;
+  height: 669px;
+  color: white;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  /* opacity: .9; */
+}
+.header-content {
+  padding: 174px 307px 174px;
+  margin-bottom: 20px;
+}
+.header-content h3 {
+  font-weight: 700;
+  font-size: 65px;
+}
+.header-content p {
+  font-weight: 400;
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+.btn {
+  padding: 16px 12px;
+  width: 160px;
+  height: 56px;
+  background: #ff5959;
+  border-radius: 5px;
+  border: 0;
+  color: white;
+}
+
+/* main section */
+
+.donate-money {
+  margin: 130px 350px;
+  text-align: center;
+}
+.title {
+  font-weight: 700;
+  font-size: 45px;
+  color: #121212;
+}
+.donate-money p {
+  margin-top: 20px;
+  font-weight: 400;
+  font-size: 18px;
+  color: #707070;
+}
+.money-btn {
+  padding-top: 50px;
+  margin-bottom: 60px;
+}
+.money-btn input {
+  padding: 44px 22px;
+  font-weight: 700;
+  font-size: 30px;
+  color: #707070;
+  border: 0px;
+}
+.donate-money h6 {
+  font-weight: 400;
+  font-size: 18px;
+  color: #b3b3b3;
+  margin-bottom: 46px;
+  border-bottom: 1px solid #DADADA;
+}
+
+.donate-plan {
+  text-align: center;
+  margin-bottom: 130px;
+}
+.donate-plan p {
+  font-weight: 400;
+  font-size: 18px;
+  color: #707070;
+  margin: 20px 375px 50px;
+}
+.container {
+  display: flex;
+  gap: 25px;
+  margin-left: 155px;
+  margin-right: 155px;
+}
+.container .icon {
+  padding-top: 62px;
+}
+.donate-plan .header {
+  font-weight: 600;
+  font-size: 24px;
+  color: #121212;
+  padding: 20px;
+}
+.paragraph {
+  font-weight: 400;
+  font-size: 16px;
+  color: #707070;
+  padding-left: 22px;
+  padding-right: 22px;
+  padding-bottom: 50px;
+}
+.depend {
+  display: flex;
+  gap: 90px;
+  margin-left: 156px;
+  margin-right: 152px;
+  text-align: left;
+  justify-content: space-between;
+}
+.document {
+  margin-bottom: 150px;
+}
+.document h3 {
+  font-weight: 700;
+  font-size: 45px;
+  color: #121212;
+  margin-bottom: 20px;
+}
+.document p {
+  font-weight: 400;
+  font-size: 18px;
+  color: #707070;
+  margin-bottom: 30px;
+}
+.update {
+  margin: 130px 316px;
+  text-align: center;
+}
+.pre-update-btn {
+  height: 200px;
+  background: #fff4d6;
+  /* margin-top: 100px; */
+  /* border: 1px solid black; */
+}
+.update-btn {
+  padding-top: 90px;
+  /* margin: auto; */
+}
+.email-btn {
+  margin-right: 0px;
+  width: 275px;
+  height: 48px;
+  background: #d9d9d9;
+  border-radius: 5px 0px 0px 5px;
+  border: 0px;
+}
+.email-btn-side {
+  font-weight: 500;
+  font-size: 16px;
+  width: fit-content;
+  height: 48px;
+  color: #ffffff;
+  background: #ff5959;
+  border-radius: 0px 5px 5px 0px;
+  border: 0px;
+  padding: 14px;
+}
+
+.footer {
+  width: 100%;
+  height: 180px;
+  background: #0b0d17;
+  text-align: center;
+}
+.footer h3 {
+  /* margin: 43px 653px 629px 25px; */
+  font-weight: 400;
+  font-size: 36px;
+  color: #ff5959;
+  text-align: center;
+  padding-top: 65px;
+}
+.footer p {
+  padding: 10px;
+  color: white;
+}
